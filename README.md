@@ -15,13 +15,13 @@ These are not necessarily listed in the order that I made them
 
 ## Accessibility Improvements
 * Added alt attributes to the icons and images
-* Changed the <div> tags to more descriptive tags
+* Changed the div tags to more descriptive tags
 * Ensured that heading attributes were in sequential order
 * Added a title to the page
 
 ## Sustainability Improvements
 * Consolidated classes that had the same purposes.
-* Removed the "header" class and replaced it with a <header> element selector (since I replaced the div element for that class with a header element.)
+* Removed the "header" class and replaced it with a header element selector (since I replaced the div element for that class with a header element). Likewise for the footer
 
 ## Built With
 * HTML
