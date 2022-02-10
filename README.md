@@ -10,9 +10,7 @@ The new code also corrects some syntax errors.
 https://patricklquirk.github.io/Module_1_Challenge/
 
 ## Image of website
-```md
-![alt text](assets/images/screenshot.png)
-```
+[Image of website](assets/images/Image_Of_Site.png)
 
 ## Important Note
 Initially when I did this project, I created the repository with everything except the README file still in the Develop folder.
