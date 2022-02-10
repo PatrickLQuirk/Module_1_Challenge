@@ -8,6 +8,28 @@ body {
     background-color: #d9dcd6;
 }
 
+/* General use styles */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+/* Header styles start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +62,9 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header styles end */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Hero styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +74,8 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Main content styles start*/
+/* Governs the section containing the stuff about search engine optimization, online reputation management, and social media marketing */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,7 +99,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Main content styles end */
 
+/* benefits styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +128,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* benefits styles end */
 
 footer {
     padding: 30px;
